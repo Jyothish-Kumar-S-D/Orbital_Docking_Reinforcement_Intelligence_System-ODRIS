@@ -1,3 +1,0 @@
-./ODRIS
-./modelds
-./modelds.blend1
