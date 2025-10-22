@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<robot name="base_station">
+   <link name="base">
+    <visual>
+    <origin xyz="0.0 0.0 1.0" rpy="0.0 0.0 0.0"/>
+    
+      <geometry>
+        <mesh filename="base_station.obj" scale="0.3"/>
+      </geometry>
+      <material name="base_material">
+        <texture filename="base_module_texture.png"/>
+      </material>
+      
+    </visual>
+  </link>   
+</robot>
